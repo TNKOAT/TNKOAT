@@ -14,7 +14,7 @@
 <img src='https://user-images.githubusercontent.com/89035964/178430339-4b1503c4-4813-4b97-b3b0-8ef457118c4a.gif' align='left'>
 
 
-### Hello/สวัสดีครับ  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/TNKOAT)
+### Hello/สวัสดีครับ  👋 
 - :school: My name is [Oatt](https://github.com/TNKOAT)
 - 🔭 I’m studying at **King Mongkut's Institute of Technology Ladkrabang.**
 - :neutral_face: Faculty of **Industrial Education and Technology.**
