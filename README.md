@@ -11,20 +11,19 @@
   <img align="right" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<img src='https://user-images.githubusercontent.com/89035964/178430339-4b1503c4-4813-4b97-b3b0-8ef457118c4a.gif' align='left'>
+<img src='https://user-images.githubusercontent.com/89035964/178430339-4b1503c4-4813-4b97-b3b0-8ef457118c4a.gif' align='left' width=''>
 
 
 ### Hello/สวัสดีครับ  👋 
-- :school: My name is [Oatt](https://github.com/TNKOAT)
-- 🔭 I’m studying at **King Mongkut's Institute of Technology Ladkrabang.**
-- :neutral_face: Faculty of **Industrial Education and Technology.**
-- 🌱 Bachelor of **Science in Technical Education Program in Computer Engineering.**
-- 🤔 I’m likes to learn and is interested in programming.
-- 💬 Ask me about anything, I am happy to help.
+&nbsp; - :school: My name is [Oatt](https://github.com/TNKOAT)
+<br> &nbsp; - 🔭 I’m studying at **King Mongkut's Institute of Technology Ladkrabang.**
+<br> &nbsp; - :neutral_face: Faculty of **Industrial Education and Technology.**
+<br> &nbsp; - 🌱 Bachelor of **Science in Technical Education Program in Computer Engineering.**
+<br> &nbsp; - 🤔 I’m likes to learn and is interested in programming.
+<br> &nbsp; - 💬 Ask me about anything, I am happy to help.
 
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<h1 align="center">⚡ Stats ⚡</h1>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
