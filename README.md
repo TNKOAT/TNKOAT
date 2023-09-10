@@ -7,9 +7,6 @@
 <a href="https://www.instagram.com/oattnkk/">
   <img align="right" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/TFtr6vMw">
-  <img align="right" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 
 <img src='https://user-images.githubusercontent.com/89035964/178430339-4b1503c4-4813-4b97-b3b0-8ef457118c4a.gif' align='left' width=''>
 
@@ -39,6 +36,4 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNKOAT&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=TNKOAT&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
